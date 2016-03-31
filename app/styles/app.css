@@ -1,0 +1,7 @@
+.jumbotron {
+  background-color: gray;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: lightgray;
+  height: 300px;
+}
